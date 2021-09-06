@@ -1,4 +1,4 @@
 # JSTK
 
 
-This is for the Job Search ToolKit used throught my course. 
+This is for the Career Services used throughout my time at Codeworks. 
